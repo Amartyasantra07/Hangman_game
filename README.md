@@ -1,57 +1,7 @@
 # Hangman_game
 #Sample output will be 
-PS D:\Python projects> python -u "d:\Python projects\hangman.py"
- 
- _
-| |
-| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
-| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
-| | | | (_| | | | | (_| | | | | | | (_| | | | |
-|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
-                    __/ |
-                   |___/    
-Guess a letter: a
-_ a _ _
 
-  +---+
-  |   |
-      |
-      |
-      |
-      |
-=========
+![image](https://user-images.githubusercontent.com/97338866/230176744-f7a9699a-1e3c-4f8e-bf09-1cb77330ea94.png)
 
-Guess a letter: c
-You guessed c, that's not in the word. You lose a life.
-_ a _ _
+![image](https://user-images.githubusercontent.com/97338866/230176861-d485e906-14e4-4c94-a22e-04d8d699d291.png)
 
-  +---+
-  |   |
-  O   |
-      |
-      |
-      |
-=========
-
-Guess a letter: o
-You guessed o, that's not in the word. You lose a life.
-_ a _ _
-
-  +---+
-  |   |
-  O   |
-  |   |
-      |
-      |
-=========
-
-Guess a letter: m
-You guessed m, that's not in the word. You lose a life.
-_ a _ _
-
-  +---+
-  |   |
-  O   |
- /|   |
-      |
-You guessed t, that's not in the word. You lose a life.
